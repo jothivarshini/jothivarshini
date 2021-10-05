@@ -1,4 +1,4 @@
-![68a5805ee62de226ae2fa7dd16b52353](https://user-images.githubusercontent.com/73244900/135967785-439e5aad-53eb-4583-b7f2-6088d301abcf.gif)
+ ![68a5805ee62de226ae2fa7dd16b52353](https://user-images.githubusercontent.com/73244900/135967785-439e5aad-53eb-4583-b7f2-6088d301abcf.gif)
  
  
 <h1 align="center">Hey there👋 I'm Jothivarshini!</h1>
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking into **Internships and Skill Developments**
 
-- 📝 I regularly write articles on [https://innovativeideals.com/](www.innovativeideals.com)
+- 📝 I regularly write articles on [https://innovativeideals.com/](https://innovativeideals.com/)
 
 - ⚡ Fun fact - **I didn't know that I liked computer science until I passed out of school :)**
 
