@@ -12,7 +12,7 @@
 
 - 👯 I’m looking into **Internships and Skill Developments**
 
-- 📝 I regularly write articles on [www.innovativeideals.com](www.innovativeideals.com)
+- 📝 I regularly write articles on [https://innovativeideals.com/](www.innovativeideals.com)
 
 - ⚡ Fun fact - **I didn't know that I liked computer science until I passed out of school :)**
 
