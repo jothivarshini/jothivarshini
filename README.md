@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jothivarshini&label=Profile%20views&color=0e75b6&style=flat" alt="jothivarshini" /> </p>
 
-- 🔭 I’m currently working on **Honing my technical skills (mainly Python,AI and ML)**
+- 🔭 I’m currently working on **Honing my technical skills (mainly Python, AI and ML)**
 
 - 🌱 I’m currently learning **Machine Learning, Java**
 
