@@ -1,4 +1,4 @@
-"![68a5805ee62de226ae2fa7dd16b52353](https://user-images.githubusercontent.com/73244900/135967785-439e5aad-53eb-4583-b7f2-6088d301abcf.gif)"
+![68a5805ee62de226ae2fa7dd16b52353](https://user-images.githubusercontent.com/73244900/135967785-439e5aad-53eb-4583-b7f2-6088d301abcf.gif)
 
 <h1 align="center">Hey there👋 I'm Jothivarshini!</h1>
 <h3 align="center">that one bio student that got swayed by the world of technology</h3>
