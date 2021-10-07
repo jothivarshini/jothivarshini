@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="![68a5805ee62de226ae2fa7dd16b52353](https://user-images.githubusercontent.com/73244900/135967785-439e5aad-53eb-4583-b7f2-6088d301abcf.gif)" alt="animated" />
+  <img src="![68a5805ee62de226ae2fa7dd16b52353](https://user-images.githubusercontent.com/73244900/135967785-439e5aad-53eb-4583-b7f2-6088d301abcf.gif)">
 </p>
 
 <h1 align="center">Hey there👋 I'm Jothivarshini!</h1>
