@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Honing my technical skills (mainly Python, AI and ML)**
 
-- 🌱 I’m currently learning **Machine Learning, Java**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking into **Internships and Skill Developments**
 
