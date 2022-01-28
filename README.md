@@ -21,7 +21,6 @@
 <a href="https://www.linkedin.com/in/jothivarshini-shanmugaraja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jothivarshini shanmugaraja" height="30" width="40" /></a>
 <a href="https://instagram.com/innovative_ideals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="innovative_ideals" height="30" width="40" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jothivarshini &theme=radical)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
