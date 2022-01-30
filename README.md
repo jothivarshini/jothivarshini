@@ -30,5 +30,5 @@
 
 ![Jothivarshini's github stats](https://github-readme-stats.vercel.app/api?username=jothivarshini&show_icons=true&theme=cobalt)
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=jothivarshini&show_icons=true&locale=en&layout=compact" alt="jothivarshini" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jothivarshini&theme=tokyonight)
 
