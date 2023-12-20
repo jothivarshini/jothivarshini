@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI**
 
-- 👯 I’m looking into **Internships and Skill Developments**
+- 👯 I’m looking into **Skill Developments and Hardware 101**
 
 - 👨‍💻 I'm interested in **Technical Writing for Research Papers**
 
