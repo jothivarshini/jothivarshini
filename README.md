@@ -14,7 +14,7 @@
 
 - 👨‍💻 I'm interested in **Technical Writing for Research Papers**
 
-- 📝 I regularly write articles on [https://innovativeideals.com/](https://innovativeideals.com/)
+- 📝 I write articles on [https://innovativeideals.com/](https://innovativeideals.com/)
 
 - ⚡ Fun fact - **I didn't know that I liked computer science until I passed out of school :)**
 
